@@ -3,16 +3,16 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            BlackDoc
-tagline:          Black Theme for Jekyll
+title:            SnistAheads
+tagline:          A Resourceful place for SNIST Students
 description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/blackdoc
+url:              https://github.com/SnistAheads/snistaheads.github.io
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
 author:
-  name:           Karlo Espiritu
+  name:           Snist Students
   url:            https://twitter.com/karloespiritu
 
 paginate:         5
@@ -28,4 +28,4 @@ plugins:
 version:            2.0.1
 
 github:
-  repo:             https://github.com/karloespiritu/blackdoc
+  repo:             https://github.com/SnistAheads/snistaheads.github.io
